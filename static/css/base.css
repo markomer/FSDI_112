@@ -1,0 +1,29 @@
+h1 {
+  color: white;
+}
+
+h3 {
+  color: rgb(31, 111, 202);
+}
+
+.homeWelcome {
+  padding: 30px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: rgb(201, 221, 238);
+  min-height: 1000px;
+  margin: 20px;
+  padding: 40px 0 70px 0;
+}
+
+.imageBlock {
+  display: flex;
+  flex-direction: column;
+  max-width: 150px;
+  padding: 20px;
+}
